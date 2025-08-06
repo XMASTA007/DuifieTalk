@@ -3,7 +3,7 @@ $(document).ready(function() {
         event.preventDefault();
 
         $.ajax({
-            url: 'process_form.php',
+            url: 'assets/php/process_form.php', // Corrected path
             type: 'POST',
             data: $(this).serialize(),
             success: function(response) {
