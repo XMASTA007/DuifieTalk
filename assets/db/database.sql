@@ -1,5 +1,5 @@
-CREATE DATABASE contact_form_db;
-USE contact_form_db;
+CREATE DATABASE DuifieTalk_db;
+USE DuifieTalk_db;
 
 CREATE TABLE messages (
     id INT AUTO_INCREMENT PRIMARY KEY,
