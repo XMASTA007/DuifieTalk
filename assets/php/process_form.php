@@ -1,6 +1,4 @@
 <?php
-require 'db.php';
-
 try {
     require 'send_email.php';
 
