@@ -1,4 +1,3 @@
-CREATE DATABASE DuifieTalk_db;
 USE DuifieTalk_db;
 
 CREATE TABLE messages (
